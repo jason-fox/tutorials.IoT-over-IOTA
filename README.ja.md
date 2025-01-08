@@ -971,4 +971,4 @@ const queue = async.queue((payload, callback) => {
 
 ## License
 
-[MIT](LICENSE) © 2021-2024 FIWARE Foundation e.V.
+[MIT](LICENSE) © 2021-2025 FIWARE Foundation e.V.
